@@ -68,7 +68,7 @@ const config: Config = {
           label: 'База знаний',
         },
         {
-          href: 'https://github.com/BOXmineYT/wiki-myid',
+          href: 'https://github.com/BOXmineYT/wiki-myid` ,
           label: 'GitHub',
           position: 'right',
         },
@@ -76,7 +76,7 @@ const config: Config = {
     },
     footer: {
       style: 'dark',
-      copyright: `Copyright © ${new Date().getFullYear()}. MyID.su Все права защещины`,
+      copyright: `Copyright © ${new Date().getFullYear()}. MyID.su' ,
     },
     prism: {
       theme: prismThemes.github,
